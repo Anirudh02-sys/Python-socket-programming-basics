@@ -1,7 +1,7 @@
 # Python-socket-programming-basics
 An intro to python socket programming 
 
-#CONTENTS
+# CONTENTS
 
 1. BASIC UDP CHAT PROGRAM 
 2. BASIC ECHO SERVER_CLIENT PROGRAM
